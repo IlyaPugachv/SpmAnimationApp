@@ -11,7 +11,7 @@
         <!--FirstVC-->
         <scene sceneID="xxu-4t-doB">
             <objects>
-                <viewController id="iss-Wp-WJ5" customClass="FirstVC" customModule="SPMAnimationApp" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="iss-Wp-WJ5" customClass="FirstVC" customModule="SMPAnimationApp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="NTY-mo-2Yg">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -51,7 +51,6 @@
                     <navigationItem key="navigationItem" id="JyP-BQ-wfK"/>
                     <connections>
                         <outlet property="activityIndicatorView" destination="O3u-iP-zkW" id="R8V-wt-R5B"/>
-                        <outlet property="startBtnAction" destination="gNN-hK-uoz" id="RDu-80-TLA"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="guU-ML-EMN" sceneMemberID="firstResponder"/>
